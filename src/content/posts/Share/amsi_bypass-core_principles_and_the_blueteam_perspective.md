@@ -238,6 +238,13 @@ Tóm lại, với những chia sẻ trên thì toi cũng coi như có cái note 
     
 SawG, a.k.a EagleBoiz
 
+# 🔍 Indicators of Compromise (IOCs)
+| Type | Indicator / Value 
+| :--- | :--- | 
+| **SHA256** | `04fc833b59af93308029d3e87c85e327a1e480508bc78b6a4e46c0cbd65ea8dc`|
+| **File Name** | `8KuV.ps1` |
+
+
 # 📚 Tài liệu tham khảo
 
 1. https://learn.microsoft.com/en-us/windows/win32/amsi/antimalware-scan-interface-portal
