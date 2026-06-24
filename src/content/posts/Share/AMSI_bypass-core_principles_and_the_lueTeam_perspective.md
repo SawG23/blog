@@ -1,6 +1,6 @@
 ---
-title: AMSI Bypass - Nguyên lý cốt lõi và góc nhìn của BlueTeam
-description: "Phân tích cơ chế hoạt động của AMSI, một vài kĩ thuật bypass, và góc nhìn của Blue Team."
+title: AMSI Bypass - Nguyên lý cốt lõi và góc nhìn BlueTeam
+description: "Phân tích cơ chế hoạt động của AMSI,một vài kĩ thuật bypass, và góc nhìn Blue Team."
 published: 2026-06-23
 tags: ["AMSI","Bypass Techniques","AsyncRAT","Sharing"]
 category: Sharing
