@@ -231,7 +231,9 @@ Nhìn vào hai mẫu log thu thập được từ quá trình thực thi `AsyncR
 Tóm lại, với những chia sẻ trên thì toi cũng coi như có cái note để đọc lại khi quên và cũng mong là nó giúp ích gì đó cho các bạn. Đến đây thì blog cũng đã dài. Cảm ơn các bạn đã dành thời gian để đọc đến đây. Chúc một ngày tốt lành
 
 (\\_/)
+
 (•.•)
+
 (>☕    
     
 SawG, a.k.a EagleBoiz
